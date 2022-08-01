@@ -1,0 +1,13 @@
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.exe
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.deps.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.runtimeconfig.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.runtimeconfig.dev.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\bin\Debug\netcoreapp3.1\OgrenciUygulamasi.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\Classlar\OgrenciUygulamasi\OgrenciUygulamasi\obj\Debug\netcoreapp3.1\OgrenciUygulamasi.genruntimeconfig.cache
